@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://bangladesh-tourism.vercel.app'
+export const SITE_URL = 'https://bangladesh-tourism-nu.vercel.app'
 export const ROUTES = [
   { path: '/', title: 'Beautiful Bangladesh — Visit Bangladesh', description: 'Beautiful Bangladesh: beaches, hills, forests and heritage. Plan your trip to Cox’s Bazar, the Sundarbans, Sajek Valley, Saint Martin’s Island and more — in English and Bangla.' },
   { path: '/destinations', title: 'Destinations', description: 'Explore Bangladesh’s top destinations — Cox’s Bazar, Sundarbans, Sajek Valley, Saint Martin’s Island, Bandarban, Sreemangal, Sylhet, Paharpur, Bagerhat, Dhaka, Kuakata and Rangamati.' },

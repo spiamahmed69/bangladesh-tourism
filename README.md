@@ -2,7 +2,7 @@
 
 A modern, bilingual (English + Bangla) redesign concept of the Bangladesh Tourism Board website. React 19 + Vite + Tailwind CSS v4 + React Router. No backend — trip plans and feedback are stored in the browser's localStorage only.
 
-Live: https://bangladesh-tourism.vercel.app
+Live: https://bangladesh-tourism-nu.vercel.app
 
 ## Pages (20 prerendered routes)
 - Home — hero, search, featured destinations, experiences, six seasons, why visit
