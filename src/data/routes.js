@@ -1,0 +1,23 @@
+export const SITE_URL = 'https://bangladesh-tourism.vercel.app'
+export const ROUTES = [
+  { path: '/', title: 'Beautiful Bangladesh — Visit Bangladesh', description: 'Beautiful Bangladesh: beaches, hills, forests and heritage. Plan your trip to Cox’s Bazar, the Sundarbans, Sajek Valley, Saint Martin’s Island and more — in English and Bangla.' },
+  { path: '/destinations', title: 'Destinations', description: 'Explore Bangladesh’s top destinations — Cox’s Bazar, Sundarbans, Sajek Valley, Saint Martin’s Island, Bandarban, Sreemangal, Sylhet, Paharpur, Bagerhat, Dhaka, Kuakata and Rangamati.' },
+  { path: '/destinations/coxs-bazar', title: 'Cox’s Bazar', description: 'Cox’s Bazar — the world’s longest natural sea beach, in Chattogram Division. Best time, what to see and how to get there.' },
+  { path: '/destinations/saint-martins', title: 'Saint Martin’s Island', description: 'Saint Martin’s Island — Bangladesh’s only coral island, in the Bay of Bengal. Clear water, coral and quiet beaches.' },
+  { path: '/destinations/sundarbans', title: 'Sundarbans', description: 'The Sundarbans — the world’s largest mangrove forest and a UNESCO World Heritage Site, home of the Royal Bengal Tiger.' },
+  { path: '/destinations/sajek-valley', title: 'Sajek Valley', description: 'Sajek Valley, Rangamati — the “queen of hills” in the Chittagong Hill Tracts, famous for its sea of clouds.' },
+  { path: '/destinations/bandarban', title: 'Bandarban', description: 'Bandarban — hills, waterfalls and lakes in the Chittagong Hill Tracts, including Boga Lake and Nilgiri.' },
+  { path: '/destinations/sreemangal', title: 'Sreemangal', description: 'Sreemangal — the tea capital of Bangladesh, with green tea gardens and Lawachara National Park.' },
+  { path: '/destinations/sylhet', title: 'Sylhet', description: 'Sylhet — Jaflong, Ratargul Swamp Forest, tea gardens and rivers in north-eastern Bangladesh.' },
+  { path: '/destinations/paharpur', title: 'Paharpur — Somapura Mahavihara', description: 'Somapura Mahavihara at Paharpur, Naogaon — a UNESCO World Heritage Site and one of the largest Buddhist monasteries in South Asia.' },
+  { path: '/destinations/bagerhat', title: 'Bagerhat — Sixty Dome Mosque', description: 'The historic mosque city of Bagerhat — the Sixty Dome Mosque (Shat Gombuj Masjid), a UNESCO World Heritage Site.' },
+  { path: '/destinations/dhaka', title: 'Dhaka', description: 'Dhaka — the capital: Lalbagh Fort, Ahsan Manzil, Old Dhaka, the National Museum and the river port at Sadarghat.' },
+  { path: '/destinations/kuakata', title: 'Kuakata', description: 'Kuakata, Patuakhali — the beach where you can watch both sunrise and sunset over the sea.' },
+  { path: '/destinations/rangamati', title: 'Rangamati & Kaptai Lake', description: 'Rangamati and Kaptai Lake — hills, lake and hanging bridge in the Chittagong Hill Tracts.' },
+  { path: '/experiences', title: 'Experiences', description: 'Beaches, hills, wildlife, heritage, rivers and food — the best experiences in Bangladesh, by interest.' },
+  { path: '/plan-your-trip', title: 'Plan Your Trip', description: 'Plan your Bangladesh trip by season, interest and days. Build a simple itinerary and save it on your device.' },
+  { path: '/travel-essentials', title: 'Travel Essentials', description: 'Visa, best time to visit, money, transport, safety and health — the essentials for travelling in Bangladesh.' },
+  { path: '/gallery', title: 'Gallery', description: 'Photo gallery of Bangladesh — beaches, hills, forests, rivers and heritage. Illustrative photos.' },
+  { path: '/about', title: 'About the Tourism Board', description: 'About the Bangladesh Tourism Board — the national tourism organisation, formed in 2010 under the Ministry of Civil Aviation and Tourism.' },
+  { path: '/contact', title: 'Contact', description: 'Contact the Bangladesh Tourism Board — Parjatan Bhaban, West Agargaon, Dhaka. Official links included.' },
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://bangladesh-tourism.vercel.app/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/coxs-bazar</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/saint-martins</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/sundarbans</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/sajek-valley</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/bandarban</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/sreemangal</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/sylhet</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/paharpur</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/bagerhat</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/dhaka</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/kuakata</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/destinations/rangamati</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/experiences</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/plan-your-trip</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/travel-essentials</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/gallery</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/about</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bangladesh-tourism.vercel.app/contact</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>
